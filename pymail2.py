@@ -49,5 +49,4 @@ class email(object):
 
     def readmail(self):
         server = poplib.POP3(self.pop_server)
-        server =
 
